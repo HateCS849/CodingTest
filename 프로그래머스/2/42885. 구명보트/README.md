@@ -2,6 +2,9 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42885) 
 
+### 회고
+실제로 배열을 수정하지 않고 인덱스만으로 정답을 도출해내는 방법
+
 ### 성능 요약
 
 메모리: 5.11 MB, 시간: 1.46 ms
